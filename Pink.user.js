@@ -32,9 +32,20 @@ html{
   background-color: var(--Light);
 }
 
+/*Logos*/
+
 path{
   fill: var(--Medium) !important;
 }
+
+/*Hashtags*/
+
+a.css-1jxf684.r-bcqeeo.r-1ttztb7.r-qvutc0.r-poiln3.r-1loqt21 {
+  color: var(--Dark);
+}
+
+/**/
+
 
 header.css-175oi2r.r-lrvibr.r-1g40b8q.r-obd0qt.r-16y2uox {
   background-color: var(--Light);
@@ -401,6 +412,7 @@ div.jf-element.flex.j-bd9wn50.j8vunac0.j-by1qh80.jfa278c0 {
 div.jf-element.flex.jy49p8z0.j-48ugzz0.j-2w3lte0.jyks6vd0.j7x4ayn0.jspqp9z12.jmsv1kr11.j9fdi2x13 {
   border-color: var(--Medium)
 }
+
 
 `);
     }
