@@ -2,7 +2,7 @@
 // @name         Twitter Pink Theme
 // @namespace    http://tampermonkey.net/
 // @version      0.01
-// @description  try to take over the world!
+// @description  Gives a cuter look to Twitter
 // @author       KantusCorner
 // @match        https://twitter.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=twitter.com
