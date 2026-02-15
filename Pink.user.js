@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Twitter Pink Theme
 // @namespace    http://tampermonkey.net/
-// @version      0.03
+// @version      0.04
 // @description  Gives a cuter look to Twitter
 // @author       KantusCorner
 // @match        https://twitter.com/*
@@ -354,6 +354,21 @@ div.r-1oszu61.r-1niwhzg.r-vqxq0j.r-deolkf.r-6koalj.r-1mlwlqe.r-eqz5dr.r-1ebb2ja.
 }
 a.css-175oi2r.r-sdzlij.r-1phboty.r-rs99b7.r-lrvibr.r-19yznuf.r-64el8z.r-1fkl15p.r-o7ynqc.r-6416eg.r-1ny4l3l.r-1loqt21 {
   border: 1px solid var(--Medium) !important;
+}
+div.jf-element.flex.jy49p8z0.j7jzx2w0.j264ize0.j-pj4qdm0.j-4a97u80.j-lm1kid13.j-vdda9x11.j-fh4oj112 {
+  background-color: var(--Light);
+}
+
+div.jf-element {
+  background-color: var(--Light)
+}
+
+div.jf-element.flex.jy49p8z0.j-48ugzz0.j7jzx2w0.jqq55sj0.j-2z2i6p12.j-cw4uj611.jfw6zwx13 {
+  border: 1px solid var(--Medium);
+}
+
+p.jf-element {
+  color: var(--Medium);
 }
 `);
     }
