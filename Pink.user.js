@@ -8,6 +8,7 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=twitter.com
 // @grant        GM_addStyle
 // @downloadURL  https://github.com/CuteGirlLeia/TwitterPinkTheme/raw/main/Pink.user.js
+// @updateURL    https://github.com/CuteGirlLeia/TwitterPinkTheme/raw/main/Pink.user.js
 
 
 //Work in progress
