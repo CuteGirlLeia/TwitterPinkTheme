@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Twitter Pink Theme
 // @namespace    http://tampermonkey.net/
-// @version      0.08
+// @version      0.09
 // @description  Gives a cuter look to Twitter
 // @author       KantusCorner
 // @match        https://twitter.com/*
@@ -41,7 +41,7 @@ path{
 /*Hashtags*/
 
 a.css-1jxf684.r-bcqeeo.r-1ttztb7.r-qvutc0.r-poiln3.r-1loqt21 {
-  color: var(--Dark);
+  color: var(--Dark) !important;
 }
 
 /**/
