@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Twitter Pink Theme
 // @namespace    http://tampermonkey.net/
-// @version      0.06
+// @version      0.07
 // @description  Gives a cuter look to Twitter
 // @author       KantusCorner
 // @match        https://twitter.com/*
@@ -398,6 +398,9 @@ div.jf-element.flex.j-bd9wn50.j8vunac0.j-by1qh80.jfa278c0 {
   background-color: #00000000;
 }
 
+div.jf-element.flex.jy49p8z0.j-48ugzz0.j-2w3lte0.jyks6vd0.j7x4ayn0.jspqp9z12.jmsv1kr11.j9fdi2x13 {
+  border-color: var(--Medium)
+}
 
 `);
     }
