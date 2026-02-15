@@ -352,8 +352,8 @@ div.r-1oszu61.r-1niwhzg.r-vqxq0j.r-deolkf.r-6koalj.r-1mlwlqe.r-eqz5dr.r-1ebb2ja.
   border-color: var(--Medium);
   border-style: dashed;
 }
-div.r-37j5jr {
-  border-color: var(--Medium) !important
+a.css-175oi2r.r-sdzlij.r-1phboty.r-rs99b7.r-lrvibr.r-19yznuf.r-64el8z.r-1fkl15p.r-o7ynqc.r-6416eg.r-1ny4l3l.r-1loqt21 {
+  border: 1px solid var(--Medium);
 }
 `);
     }
