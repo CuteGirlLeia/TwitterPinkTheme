@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Twitter Pink Theme
 // @namespace    http://tampermonkey.net/
-// @version      0.07
+// @version      0.08
 // @description  Gives a cuter look to Twitter
 // @author       KantusCorner
 // @match        https://twitter.com/*
