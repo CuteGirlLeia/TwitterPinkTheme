@@ -1,3 +1,24 @@
+// ==UserScript==
+// @name         Twitter Pink Theme
+// @namespace    http://tampermonkey.net/
+// @version      2026-02-15
+// @description  try to take over the world!
+// @author       KantusCorner
+// @match        https://twitter.com/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=twitter.com
+// @grant        GM_addStyle
+// ==/UserScript==
+
+
+//Work in progress
+
+
+(function() {
+    'use strict';
+
+     function addMyStyles() {
+        GM_addStyle(`
+
 :root{
   --Light: #f8c8dc;
   --Medium: #ff4a95;
@@ -328,3 +349,21 @@ div.r-1oszu61.r-1niwhzg.r-vqxq0j.r-deolkf.r-6koalj.r-1mlwlqe.r-eqz5dr.r-1ebb2ja.
   border-color: var(--Medium);
   border-style: dashed;
 }
+div.r-37j5jr {
+  border-color: var(--Medium)
+  
+}
+`);
+    }
+    function onReady(callback) {
+        if (document.readyState === 'complete' || document.readyState === 'interactive') {
+            callback();
+        } else {
+            window.addEventListener('DOMContentLoaded', callback);
+        }
+    }
+
+    onReady(() => {
+        addMyStyles();
+    });
+})();
