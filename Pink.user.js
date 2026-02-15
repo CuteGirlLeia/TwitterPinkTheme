@@ -7,6 +7,7 @@
 // @match        https://twitter.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=twitter.com
 // @grant        GM_addStyle
+// @downloadURL  https://githubusercontent.com/CuteGirlLeia/TwitterPinkTheme/master/Pink.user.js
 // ==/UserScript==
 
 
