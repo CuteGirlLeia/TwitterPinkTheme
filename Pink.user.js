@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Twitter Pink Theme
 // @namespace    http://tampermonkey.net/
-// @version      2026-02-15
+// @version      0.01
 // @description  try to take over the world!
 // @author       KantusCorner
 // @match        https://twitter.com/*
