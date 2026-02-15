@@ -350,7 +350,7 @@ div.r-1oszu61.r-1niwhzg.r-vqxq0j.r-deolkf.r-6koalj.r-1mlwlqe.r-eqz5dr.r-1ebb2ja.
   border-style: dashed;
 }
 div.r-37j5jr {
-  border-color: var(--Medium)
+  border-color: var(--Medium) !important
 }
 `);
     }
