@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Twitter Pink Theme
 // @namespace    http://tampermonkey.net/
-// @version      0.14
+// @version      0.15
 // @description  Gives a cuter look to Twitter
 // @author       KantusCorner
 // @match        https://twitter.com/*
@@ -519,8 +519,29 @@ background-color: var(--Medium) !important;
 }
 
 a.css-175oi2r.r-sdzlij.r-1phboty.r-rs99b7.r-lrvibr.r-6gpygo.r-2yi16.r-1qi8awa.r-3pj75a.r-o7ynqc.r-6416eg.r-1ny4l3l.r-1loqt21 {
-  border-color: var(--Medium);
+  border-color: var(--Medium) !important;
 }
+
+a.css-175oi2r.r-18u37iz.r-1mmae3n.r-3pj75a.r-13qz1uu.r-o7ynqc.r-6416eg.r-1ny4l3l.r-1loqt21 {
+  background-color: var(--Light);
+}
+
+div.css-175oi2r.r-kemksi.r-18u37iz.r-17s6mgv.r-ddtstp.r-1mmae3n.r-1e084wi.r-f8sm7e.r-13qz1uu.r-1ye8kvj {
+  background-color: var(--Light);
+}
+
+div.css-175oi2r.r-kemksi {
+  background-color: var(--Light);
+}
+
+div span span {
+  color: var(--Dark);
+}
+
+button.css-175oi2r.r-sdzlij.r-1phboty.r-rs99b7.r-lrvibr.r-1cwvpvk.r-2yi16.r-1qi8awa.r-3pj75a.r-1loqt21.r-o7ynqc.r-6416eg.r-1ny4l3l {
+  background-color: var(--Medium);
+}
+
 `);
     }
     function onReady(callback) {
