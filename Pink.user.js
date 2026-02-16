@@ -513,10 +513,6 @@ div.css-146c3p1.r-1ttztb7.r-qvutc0.r-37j5jr.r-1gkfh8e.r-56xrmm.r-16dba41.r-1awoz
 a.css-175oi2r.r-sdzlij.r-1phboty.r-rs99b7.r-lrvibr.r-6gpygo.r-2yi16.r-1qi8awa.r-3pj75a.r-o7ynqc.r-6416eg.r-1ny4l3l.r-1loqt21 {
   border-color: var(--Medium);
 }
-
-div.css-175oi2r.r-1pi2tsx.r-13qz1uu {
-  background-color: var(--Medium);
-}
 `);
     }
     function onReady(callback) {
