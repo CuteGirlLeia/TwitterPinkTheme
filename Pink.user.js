@@ -505,6 +505,10 @@ span.css-1jxf684.r-bcqeeo.r-1ttztb7.r-qvutc0.r-poiln3.r-4qtqp9.r-1a11zyx {
 nav.r-1igl3o0 {
   border-color: var(--Medium);
 }
+
+div.css-146c3p1.r-1ttztb7.r-qvutc0.r-37j5jr.r-1gkfh8e.r-56xrmm.r-16dba41.r-1awozwy.r-168457u.r-sdzlij.r-6koalj.r-1q142lx.r-10ptun7.r-1777fci.r-285fr0.r-lrvibr.r-3s2u2q.r-1xc7w19.r-1phboty.r-rs99b7.r-1tjplnt.r-2utimh.r-u8s1d.r-1m4drjs {
+  background-color: var(--Light);
+}
 `);
     }
     function onReady(callback) {
