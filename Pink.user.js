@@ -542,6 +542,11 @@ button.css-175oi2r.r-sdzlij.r-1phboty.r-rs99b7.r-lrvibr.r-1cwvpvk.r-2yi16.r-1qi8
   background-color: var(--Medium);
 }
 
+button.css-175oi2r.r-sdzlij.r-1phboty.r-rs99b7.r-lrvibr.r-ywje51.r-184id4b.r-eu3ka.r-1ipicw7.r-2yi16.r-1qi8awa.r-3pj75a.r-1loqt21.r-o7ynqc.r-6416eg.r-1ny4l3l {
+  background-color: var(--Light);
+  border-color: var(--Medium);
+}
+
 `);
     }
     function onReady(callback) {
