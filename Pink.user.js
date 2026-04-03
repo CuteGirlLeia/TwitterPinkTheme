@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.15
 // @description  Gives a cuter look to Twitter
-// @author       KantusCorner
+// @author       CuteGirlLeia
 // @match        https://twitter.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=twitter.com
 // @grant        GM_addStyle
@@ -545,6 +545,16 @@ button.css-175oi2r.r-sdzlij.r-1phboty.r-rs99b7.r-lrvibr.r-1cwvpvk.r-2yi16.r-1qi8
 button.css-175oi2r.r-sdzlij.r-1phboty.r-rs99b7.r-lrvibr.r-ywje51.r-184id4b.r-eu3ka.r-1ipicw7.r-2yi16.r-1qi8awa.r-3pj75a.r-1loqt21.r-o7ynqc.r-6416eg.r-1ny4l3l {
   background-color: var(--Light);
   border-color: var(--Medium);
+}
+
+div.css-175oi2r.r-1bimlpy.r-z2wwpe.r-1p0dtai.r-1pi2tsx.r-1d2f490.r-u8s1d.r-ipm5af {
+  background-color: var(--Light);
+  border: 1px solid var(--Medium);
+}
+
+div.css-175oi2r.r-12181gd.r-1pi2tsx.r-13qz1uu.r-o7ynqc.r-6416eg.r-1ny4l3l {
+  width: 0;
+  height: 0;
 }
 
 `);
