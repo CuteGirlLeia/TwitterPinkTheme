@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Twitter Pink Theme
 // @namespace    http://tampermonkey.net/
-// @version      0.16
+// @version      0.17
 // @description  Gives a cuter look to Twitter
 // @author       CuteGirlLeia
 // @match        https://twitter.com/*
@@ -557,6 +557,89 @@ div.css-175oi2r.r-12181gd.r-1pi2tsx.r-13qz1uu.r-o7ynqc.r-6416eg.r-1ny4l3l {
   height: 0;
 }
 
+div.css-g5y9jx.r-1oszu61.r-1niwhzg.r-18u37iz.r-16y2uox.r-2llsf.r-13qz1uu.r-1wtj0ep {
+  background-color: #f8c8dc
+  
+}
+
+div.css-g5y9jx.r-14lw9ot.r-jxzhtn.r-1ua6aaf.r-th6na.r-1phboty.r-16y2uox.r-184en5c.r-1abdc3e.r-1lg4w6u.r-f8sm7e.r-13qz1uu.r-1ye8kvj {
+  background-color: #f8c8dc;
+  border-color: #da4985;
+}
+
+div.css-g5y9jx.r-3pj75a {
+  background-color: #f8c8dc;
+}
+
+div.css-g5y9jx.r-14lw9ot.r-jumn1c.r-xd6kpl.r-gtdqiz.r-ipm5af.r-184en5c {
+  background-color: #f8c8dc;
+}
+
+div.css-g5y9jx.r-1awozwy.r-14lw9ot.r-18u37iz.r-1wtj0ep.r-13qz1uu.r-184en5c {
+  background-color: #f8c8dc;
+}
+
+div.css-g5y9jx.r-1awozwy.r-6koalj.r-eqz5dr.r-16y2uox.r-1h3ijdo.r-1777fci.r-s8bhmr.r-3pj75a.r-1loqt21.r-o7ynqc.r-6416eg.r-1ny4l3l {
+  background-color: #f8c8dc;
+}
+
+div.css-g5y9jx.r-1pi2tsx.r-1wtj0ep.r-1rnoaur.r-o96wvk.r-is05cd {
+  background-color: #f8c8dc;
+}
+
+div.css-g5y9jx.r-1awozwy.r-aqfbo4.r-14lw9ot.r-18u37iz.r-1h3ijdo.r-6gpygo.r-15ysp7h.r-1xcajam.r-ipm5af.r-136ojw6.r-1hycxz {
+  background-color: #f8c8dc;
+}
+
+main.css-g5y9jx.r-16y2uox.r-1wbh5a2.r-1habvwh {
+  background-color: #f8c8dc;
+}
+
+div.css-g5y9jx.r-1h8ys4a {
+  background-color: #f8c8dc;
+}
+
+nav.css-g5y9jx.r-1awozwy.r-18u37iz.r-j5o65s.r-rull8r.r-qklmqi.TimelineTabs {
+  background-color: #f8c8dc;
+  border-color: #da4985;
+}
+
+div.css-g5y9jx.r-j5o65s.r-qklmqi.r-1adg3ll.r-1ny4l3l {
+  border-color: #da4985;
+}
+
+div.css-g5y9jx.r-109y4c4.r-1sw30gj {
+  background-color: #da4985;
+}
+
+header.css-g5y9jx.r-lrvibr.r-1g40b8q.r-obd0qt.r-16y2uox {
+  background-color: #f8c8dc;
+}
+
+div.css-g5y9jx.r-1wbh5a2 {
+  background-color: #f8c8dc;
+  border-color: #da4985;
+}
+
+div.css-g5y9jx {
+  border-color: #da4985;
+}
+
+nav.css-g5y9jx.r-1awozwy.r-18u37iz.r-j5o65s.r-rull8r.r-qklmqi {
+  border-color: #da4985;
+}
+
+div.css-146c3p1.r-bcqeeo.r-1ttztb7.r-qvutc0.r-37j5jr.r-n6v787.r-1cwl3u0.r-16dba41.r-1mmae3n.r-3pj75a {
+  background-color: #f8c8dc;
+}
+
+a.css-g5y9jx.r-1wtj0ep.r-16x9es5.r-1mmae3n.r-o7ynqc.r-6416eg.r-1ny4l3l.r-1loqt21 {
+  background-color: #f8c8dc;
+}
+
+section.css-g5y9jx.r-jxzhtn.r-1ua6aaf.r-th6na.r-1phboty.r-1udh08x.r-13awgt0.r-f8sm7e.r-13qz1uu.r-1ye8kvj {
+  border-color: #da4985;
+}
 `);
     }
     function onReady(callback) {
