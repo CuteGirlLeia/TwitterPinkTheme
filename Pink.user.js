@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Twitter Pink Theme
 // @namespace    http://tampermonkey.net/
-// @version      0.17
+// @version      0.18
 // @description  Gives a cuter look to Twitter
 // @author       CuteGirlLeia
 // @match        https://twitter.com/*
@@ -639,6 +639,30 @@ a.css-g5y9jx.r-1wtj0ep.r-16x9es5.r-1mmae3n.r-o7ynqc.r-6416eg.r-1ny4l3l.r-1loqt21
 
 section.css-g5y9jx.r-jxzhtn.r-1ua6aaf.r-th6na.r-1phboty.r-1udh08x.r-13awgt0.r-f8sm7e.r-13qz1uu.r-1ye8kvj {
   border-color: #da4985;
+}
+
+div.css-g5y9jx.r-ero68b.r-16y2uox.r-1h0z5md.r-1wbh5a2.r-1awozwy.r-18u37iz {
+  background-color: #0000
+  
+}
+
+div.jf-element.flex.j-ou8jrn0.j8vunac0.j-4jzft30.jxuf0tf0 {
+  background-color: #FFF;
+}
+
+div.jf-element.flex.j-ou8jrn0.j8vunac0.j8hsgn30 {
+  background-color: #FFF;
+}
+
+p.jf-element.jf-truncate-end {
+  background-color: #FFF;
+}
+
+div.css-175oi2r.r-1awozwy.r-1h3ijdo.r-1777fci.r-bnwqim
+{
+  background-color: var(--Light);
+  border-left-width: 1px;
+  border-color: var(--Medium);
 }
 `);
     }
