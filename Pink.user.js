@@ -664,6 +664,23 @@ div.css-175oi2r.r-1awozwy.r-1h3ijdo.r-1777fci.r-bnwqim
   border-left-width: 1px;
   border-color: var(--Medium);
 }
+
+div.r-6026j{
+  background-color: var(--Light);
+}
+
+div.r-14lw9ot.r-1hycxz{
+  background-color: #0000;
+}
+
+div.css-g5y9jx.r-aqfbo4.r-gtdqiz.r-1gn8etr.r-4zbufd.r-1g40b8q{
+  border-bottom-color: var(--Dark);
+  border-bottom-width: 1px;
+}
+
+div.css-g5y9jx.r-1awozwy.r-j5o65s.r-rull8r.r-qklmqi.r-18u37iz{
+  border-color: var(--Light);
+}
 `);
     }
     function onReady(callback) {
