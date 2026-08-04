@@ -681,6 +681,10 @@ div.css-g5y9jx.r-aqfbo4.r-gtdqiz.r-1gn8etr.r-4zbufd.r-1g40b8q{
 div.css-g5y9jx.r-1awozwy.r-j5o65s.r-rull8r.r-qklmqi.r-18u37iz{
   border-color: var(--Light);
 }
+
+div.css-g5y9jx.r-14lw9ot.r-1upvrn0.r-1867qdf{
+ background-color: var(--Light)
+}
 `);
     }
     function onReady(callback) {
