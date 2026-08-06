@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Twitter Pink Theme
 // @namespace    http://tampermonkey.net/
-// @version      0.18
+// @version      0.19
 // @description  Gives a cuter look to Twitter
 // @author       CuteGirlLeia
 // @match        https://twitter.com/*
@@ -685,6 +685,39 @@ div.css-g5y9jx.r-1awozwy.r-j5o65s.r-rull8r.r-qklmqi.r-18u37iz{
 div.css-g5y9jx.r-14lw9ot.r-1upvrn0.r-1867qdf{
  background-color: var(--Light)
 }
+
+div.css-g5y9jx.r-14lw9ot.r-pm9dpa.r-1rnoaur.r-1867qdf.r-z6ln5t.r-494qqr.r-f8sm7e.r-13qz1uu.r-1ye8kvj {
+  background-color: var(--Light);
+}
+
+button.css-g5y9jx.r-sdzlij.r-1phboty.r-rs99b7.r-lrvibr.r-16y2uox.r-6gpygo.r-1udh08x.r-1udbk01.r-3s2u2q.r-peo1c.r-1ps3wis.r-cxgwc0.r-1loqt21.r-o7ynqc.r-6416eg.r-1ny4l3l {
+  border-color: var(--Dark);
+}
+
+div.flex.h-full.w-full.grow.flex-col.items-center.justify-center.gap-6 {
+  background-color: var(--Light);
+}
+
+div.flex.flex-col.h-full.relative.w-full.border-e {
+  border-color: var(--Medium);
+}
+
+button.border-gray-100{
+    border-color: var(--Medium);
+}
+div.r-14lw9ot{
+  background-color: var(--Light);
+}
+
+div.css-g5y9jx.r-bqz1g2.r-1q9bdsx.r-1mmae3n.r-3pj75a{
+  border: 1px dashed var(--Medium);
+}
+
+div.css-g5y9jx.r-1awozwy.r-18u37iz.r-1777fci.r-peo1c.r-1mmae3n.r-g155d4 {
+  border-bottom: 1px solid var(--Medium);
+  margin-bottom: 15px;
+}
+
 `);
     }
     function onReady(callback) {
