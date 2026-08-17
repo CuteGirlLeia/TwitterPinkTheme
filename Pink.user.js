@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Twitter Pink Theme
 // @namespace    http://tampermonkey.net/
-// @version      0.20
+// @version      0.21
 // @description  Gives a cuter look to Twitter
 // @author       CuteGirlLeia
-// @match        https://twitter.com/*
+// @match        https://x.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=twitter.com
 // @grant        GM_addStyle
 // @downloadURL  https://raw.githubusercontent.com/CuteGirlLeia/TwitterPinkTheme/main/Pink.user.js
