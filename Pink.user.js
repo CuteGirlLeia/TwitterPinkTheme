@@ -669,7 +669,7 @@ div.r-6026j{
 }
 
 div.r-14lw9ot.r-1hycxz{
-  background-color: #0000;
+  background-color: #f8c8dc;
 }
 
 div.css-g5y9jx.r-aqfbo4.r-gtdqiz.r-1gn8etr.r-4zbufd.r-1g40b8q{
