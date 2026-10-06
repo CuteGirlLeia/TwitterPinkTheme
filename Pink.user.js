@@ -15,6 +15,8 @@
 
 //Work in progress
 
+//Edit the hex codes in :root to change the colours to whatever you want
+
 
 (function() {
     'use strict';
